@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/technology.jpg";
+import image from "../images/circuit.jpg";
 
-const imageAltText = "technology picture";
+const imageAltText = "circuit picture";
 
 /**
  * Sort description that expands on your title on the Home component.
