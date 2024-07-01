@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/austin-dmello-03b7531b0",
   medium: "",
   twitter: "https://twitter.com/AustinDmello5",
-  youTube: "https://www.youtube.com/channel/UCjMt4ps87CGt_NacCOxdpjw",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
