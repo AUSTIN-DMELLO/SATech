@@ -42,6 +42,16 @@ const projectList = [
       "Some basic HTML programs to get started with Web Development.",
     url: "https://github.com/AUSTIN-DMELLO/HTML-Programs",
   },
+  {
+    title: "Python Programs",
+    description: "Basic Programs to start with Python.",
+    url: "https://github.com/AUSTIN-DMELLO/Python-Programs",
+  },
+  {
+    title: "Java Programs",
+    description: "Beginner Programs to get started with Java.",
+    url: "https://github.com/AUSTIN-DMELLO/Java-Programs",
+  },
 ];
 
 const Portfolio = () => {
