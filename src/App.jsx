@@ -27,11 +27,11 @@ const siteProps = {
   name: "Austin Dmello",
   title: "AI, ML, Data Science and Cloud Enthusiast",
   email: "austindmello2004@outlook.com",
-  gitHub: "https://github.com/AUSTIN-DMELLO",
-  instagram: "https://www.instagram.com/austin.dmello/",
-  linkedIn: "https://www.linkedin.com/in/austin-dmello-03b7531b0",
+  gitHub: "AUSTIN-DMELLO",
+  instagram: "austin.dmello/",
+  linkedIn: "austin-dmello-03b7531b0",
   medium: "",
-  twitter: "https://twitter.com/AustinDmello5",
+  twitter: "AustinDmello5",
   youTube: "",
 };
 
