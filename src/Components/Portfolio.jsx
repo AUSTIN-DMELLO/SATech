@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "C Programs developed by me.",
+    title: "C Programs developed by me",
     description:
       "C Programs to learn basic programming.",
     url: "https://github.com/AUSTIN-DMELLO/C-Programs",
