@@ -37,10 +37,10 @@ const projectList = [
     url: "https://github.com/AUSTIN-DMELLO/C-Programs",
   },
   {
-    title: "HTML for Beginners",
+    title: "Java Inventory Management System",
     description:
-      "Some basic HTML programs to get started with Web Development.",
-    url: "https://github.com/AUSTIN-DMELLO/HTML-Programs",
+      "Semester 3 Mini Project involving JSwing and JDBC.",
+    url: "https://github.com/AUSTIN-DMELLO/Java-Mini-Project-Inventory-Management-System",
   },
   {
     title: "Python Programs",
