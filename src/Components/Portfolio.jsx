@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "C Programs developed by me",
+    title: "EventMaster",
     description:
-      "C Programs to learn basic programming.",
-    url: "https://github.com/AUSTIN-DMELLO/C-Programs",
+      "A Next.js website with CRUD features for events and booking events with secure Stripe payments.",
+    url: "https://github.com/AUSTIN-DMELLO/eventmaster",
   },
   {
     title: "Java Inventory Management System",
@@ -44,7 +44,7 @@ const projectList = [
   },
   {
     title: "Python Programs",
-    description: "Basic Programs to start with Python.",
+    description: "Simple Programs implemented using Python.",
     url: "https://github.com/AUSTIN-DMELLO/Python-Programs",
   },
   {
