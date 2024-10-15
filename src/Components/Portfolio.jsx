@@ -48,7 +48,7 @@ const projectList = [
     url: "https://github.com/AUSTIN-DMELLO/Python-Programs",
   },
   {
-    title: "Java Programs",
+    title: "C Programs",
     description: "Beginner Programs to get started with C Programming.",
     url: "https://github.com/AUSTIN-DMELLO/C-Programs",
   },
