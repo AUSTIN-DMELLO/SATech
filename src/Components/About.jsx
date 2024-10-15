@@ -24,7 +24,7 @@ const imageAltText = "circuit picture";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Engineering Student at the University of Mumbai. I am passionate about learning new technologies and applying my skills to create innovative solutions";
+  "I'm a Computer Engineering Student at the University of Mumbai. I am passionate about learning new technologies and applying my skills to create innovative solutions.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
