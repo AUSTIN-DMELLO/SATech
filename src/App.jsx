@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Austin Dmello",
-  title: "Web Development, ML and Cloud Enthusiast",
+  title: "Software Engineer and Cloud Enthusiast",
   email: "austindmello2004@outlook.com",
   gitHub: "AUSTIN-DMELLO",
   instagram: "austin.dmello/",
