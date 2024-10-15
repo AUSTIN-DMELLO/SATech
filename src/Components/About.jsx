@@ -34,7 +34,7 @@ const skillsList = [
   "Web Development",
   "Machine Learning",
   "Cloud Computing",
-  "Cybersecurity",
+  "Data Science",
 ];
 
 /**
