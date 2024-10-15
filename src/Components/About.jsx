@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my experience I continually look for new and better ways to make tech accessible by all.";
+  "Building on my experience as a Microsoft Learn Student Ambassador, I am consistently exploring new and improved ways to make technology accessible to everyone.";
 
 const About = () => {
   return (
