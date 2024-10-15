@@ -49,8 +49,8 @@ const projectList = [
   },
   {
     title: "Java Programs",
-    description: "Beginner Programs to get started with Java.",
-    url: "https://github.com/AUSTIN-DMELLO/Java-Programs",
+    description: "Beginner Programs to get started with C Programming.",
+    url: "https://github.com/AUSTIN-DMELLO/C-Programs",
   },
 ];
 
