@@ -29,7 +29,7 @@ const siteProps = {
   email: "austindmello2004@outlook.com",
   gitHub: "AUSTIN-DMELLO",
   instagram: "austin.dmello/",
-  linkedIn: "austin-dmello-03b7531b0",
+  linkedIn: "austin-dmello",
   medium: "",
   twitter: "AustinDmello5",
   youTube: "https://www.youtube.com/channel/UCjMt4ps87CGt_NacCOxdpjw",
